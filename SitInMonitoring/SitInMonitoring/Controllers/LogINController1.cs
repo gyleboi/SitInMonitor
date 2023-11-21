@@ -8,11 +8,5 @@ namespace SitInMonitoring.Controllers
         {
             return View();
         }
-
-        [HttpPost]
-        public IActionResult Login(Users user)
-        {
-
-        }
     }
 }

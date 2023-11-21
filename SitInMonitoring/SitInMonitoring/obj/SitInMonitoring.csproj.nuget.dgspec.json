@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\SitInMonitoring\\SitInMonitoring\\SitInMonitoring.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\GitHub\\SitInMonitor\\SitInMonitoring\\SitInMonitoring\\SitInMonitoring.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\SitInMonitoring\\SitInMonitoring\\SitInMonitoring.csproj": {
+    "C:\\Users\\Administrator\\Documents\\GitHub\\SitInMonitor\\SitInMonitoring\\SitInMonitoring\\SitInMonitoring.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\SitInMonitoring\\SitInMonitoring\\SitInMonitoring.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\SitInMonitor\\SitInMonitoring\\SitInMonitoring\\SitInMonitoring.csproj",
         "projectName": "SitInMonitoring",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\SitInMonitoring\\SitInMonitoring\\SitInMonitoring.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\SitInMonitor\\SitInMonitoring\\SitInMonitoring\\SitInMonitoring.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\SitInMonitoring\\SitInMonitoring\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\SitInMonitor\\SitInMonitoring\\SitInMonitoring\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.23, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
