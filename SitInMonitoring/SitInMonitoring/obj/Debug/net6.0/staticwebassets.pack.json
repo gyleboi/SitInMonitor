@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\SitInMonitoring.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Administrator\\Documents\\GitHub\\SitInMonitor\\SitInMonitoring\\SitInMonitoring\\wwwroot\\css\\images\\Account.png",
+      "PackagePath": "staticwebassets\\css\\images\\Account.png"
+    },
+    {
       "Id": "C:\\Users\\Administrator\\Documents\\GitHub\\SitInMonitor\\SitInMonitoring\\SitInMonitoring\\wwwroot\\css\\images\\BG COMLAB.jpg",
       "PackagePath": "staticwebassets\\css\\images\\BG COMLAB.jpg"
     },

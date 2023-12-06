@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m0o/0eEz6FhVCX4JHM1nfSvDQWAE+XwGwUR4n0aS+VM=",
+  "Hash": "N8pHPKsg5uGBpkiewHe6zqYXaeS5h0EDU4hJomCCw3w=",
   "Source": "SitInMonitoring",
   "BasePath": "_content/SitInMonitoring",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Administrator\\Documents\\GitHub\\SitInMonitor\\SitInMonitoring\\SitInMonitoring\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SitInMonitoring.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\Documents\\GitHub\\SitInMonitor\\SitInMonitoring\\SitInMonitoring\\wwwroot\\css\\images\\Account.png",
+      "SourceId": "SitInMonitoring",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Documents\\GitHub\\SitInMonitor\\SitInMonitoring\\SitInMonitoring\\wwwroot\\",
+      "BasePath": "_content/SitInMonitoring",
+      "RelativePath": "css/images/Account.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\images\\Account.png"
     },
     {
       "Identity": "C:\\Users\\Administrator\\Documents\\GitHub\\SitInMonitor\\SitInMonitoring\\SitInMonitoring\\wwwroot\\css\\images\\BG COMLAB.jpg",
